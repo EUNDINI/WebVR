@@ -4,7 +4,7 @@
 * 전시회장까지의 접근이 힘든 사람들, 전시나 공연을 집에서 편하게 즐기고 싶은 사람들에게도 수요가 있을 것으로 예상
 
 ## 2. 서비스 구성도
-<img src="https://user-images.githubusercontent.com/72064966/150841823-1ca545ea-416e-47ec-8f9c-8df15a02c3cf.PNG">
+<img src="https://user-images.githubusercontent.com/72064966/152635130-19fa7ecf-1bb9-4551-9237-a0c1f32b8f3a.PNG">
 
 ## 3. 메뉴 구성도
 <img src="https://user-images.githubusercontent.com/72064966/150842125-c55e592d-9e7b-4681-8a82-e319ef1935a9.png">

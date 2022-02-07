@@ -16,5 +16,5 @@
 <img src="https://user-images.githubusercontent.com/72064966/150842582-44ae70fc-c8d9-4e4a-8b42-99cc06a6c26d.PNG">
 <img src="https://user-images.githubusercontent.com/72064966/150842596-ebea0eb9-4312-4185-a185-6b5f2595ef3a.PNG">
 
-## 6. 프로그램 작동 동영상
+## 6. 시연 
 https://www.youtube.com/watch?v=ePTYv9woesw
